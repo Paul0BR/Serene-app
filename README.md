@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# Serene App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🇧🇷 Português
 
-## Get started
+**Serene** é um aplicativo móvel criado para trazer mais calma e foco ao seu dia a dia.
 
-1. Install dependencies
+### Sobre o desenvolvimento  
+Dediquei centenas de horas estudando, quebrando a cabeça e testando ideias até chegar onde estou hoje. Ainda há muito a melhorar — novas funcionalidades, ajustes de design e otimizações de desempenho — mas já me sinto realizado com o progresso. Se você tiver dicas, críticas construtivas ou sugestões, ficarei imensamente grato em ouvir!
 
-   ```bash
-   npm install
-   ```
+### Como você pode ajudar  
+Estou aguardando a arrecadação de **US$ 25** para pagar a taxa de desenvolvedor do Google Play e lançar o Serene na loja oficial.  
+- Se quiser apoiar financeiramente, acesse:  
+  👉 [Ko-fi.com/p4ruu](https://ko-fi.com/p4ruu)  
+- Seu apoio, por menor que seja, faz toda a diferença!
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 🇺🇸 English
 
-In the output, you'll find options to open the app in a
+**Serene** is a mobile app designed to bring calm and focus into your everyday life.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### About the development  
+I’ve poured hundreds of hours into studying, troubleshooting, and experimenting to get to this point. There’s still plenty of room for improvement—new features, design tweaks, and performance optimizations—but I’m proud of how far I’ve come. If you have any feedback, constructive criticism, or suggestions, I’d love to hear them!
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### How you can help  
+I’m currently raising **US$ 25** to cover the Google Play developer fee and officially launch Serene on the Play Store.  
+- To support me financially, please visit:  
+  👉 [Ko-fi.com/p4ruu](https://ko-fi.com/p4ruu)  
+- Every contribution, no matter how small, makes a big difference!
