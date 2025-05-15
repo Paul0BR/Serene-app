@@ -10,7 +10,7 @@ Dediquei centenas de horas estudando, quebrando a cabeça e testando ideias até
 ### Como você pode ajudar  
 Estou aguardando a arrecadação de **US$ 25** para pagar a taxa de desenvolvedor do Google Play e lançar o Serene na loja oficial.  
 - Se quiser apoiar financeiramente, acesse:  
-  👉 [Ko-fi.com/p4ruu](https://ko-fi.com/p4ruu)  
+  👉 👉 [Liberapay.com/Serene](https://liberapay.com/Serene/) 
 - Seu apoio, por menor que seja, faz toda a diferença!
 
 ---
@@ -25,5 +25,5 @@ I’ve poured hundreds of hours into studying, troubleshooting, and experimentin
 ### How you can help  
 I’m currently raising **US$ 25** to cover the Google Play developer fee and officially launch Serene on the Play Store.  
 - To support me financially, please visit:  
-  👉 [Ko-fi.com/p4ruu](https://ko-fi.com/p4ruu)  
+  👉 👉 [Liberapay.com/Serene](https://liberapay.com/Serene/) 
 - Every contribution, no matter how small, makes a big difference!
